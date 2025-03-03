@@ -6,7 +6,7 @@
 
 
 ![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=Vini-cods&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=tokyonight)
 
 ## Tecnologias que eu uso no meu dia
 
