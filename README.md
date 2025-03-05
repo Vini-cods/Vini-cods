@@ -1,24 +1,66 @@
-### Oi! Meu nome é Vinícius Santos Briches
+## 👋 Hey there! I'm Vinícius Santos Briches!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](vinisanto141@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/briches.v)
+###
 
+    💭 I'm 17 years old and I'm currently studying Software Development at SENAI.
+    Technology and programming have always caught my attention, and now I'm focused
+    on becoming a Software Engineer while exploring the latest trends in the world of technology.
+
+
+    💻 Systems Development Student at SENAI
+
+    🎯 Aspiring Software Engineer
+
+    📚 Learning and improving JavaScript, Node.js, Python and more!
+
+    🚀 Exploring technologies, UX/UI Design, and innovative solutions
+
+    🗃️ Team player, problem solver, and always eager to learn
+
+    🎶 Music and gaming enthusiast, always seeking inspiration through creativity
+
+##
 
 ![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=Vini-cods&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=compact)
-## Meu conhecimento
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&theme=tokyonight)
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "/>
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "/>
-    <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white "/>
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "/>
-    <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "/>
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "/>
-    <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "/>
-</div><br/>
+##
 
+### My knowledge
 
-Atualmente estudando ADS e no futuro Engenharia de Software
+<div style="display: inline_block"><br/>      
+    <img align="center" alt="vinihtml" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 𝙷𝚃𝙼𝙻
+    <img align="center" alt="vinicss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 𝙲𝚂𝚂
+    <img align="center" alt="vinijs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃
+    <img align="center" alt="viniphp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 𝙿𝙷𝙿
+    <img align="center" alt="vinisql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 𝙼𝚈𝚂𝚀𝙻
+    <img align="center" alt="vininode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 𝙽𝙾𝙳𝙴.𝙹𝚂       
+</div>
+
+### I am currently studying
+
+<div style="display: inline_block"><br/>      
+    <img align="center" alt="vinihtml" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 𝙿𝚈𝚃𝙷𝙾𝙽
+    <img align="center" alt="vinijs" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃
+    <img align="center" alt="viniphp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 𝙿𝙷𝙿
+    <img align="center" alt="vinisql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 𝙼𝚈𝚂𝚀𝙻     
+</div>
+
+### Platforms I use
+
+<div style="display: inline_block"><br/>      
+    <img align="center" alt="vinivscode" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />  𝚅𝚂𝙲𝙾𝙳𝙴
+    <img align="center" alt="vinireplit" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />  𝚁𝙴𝙿𝙻𝙸𝚃
+    <img align="center" alt="vinipycharm" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />  𝙿𝚈𝙲𝙷𝙰𝚁𝙼
+    <img align="center" alt="viniandroids" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />  𝙰𝙽𝙳𝚁𝙾𝙸𝙳 𝚂𝚃𝚄𝙳𝙸𝙾
+    <img align="center" alt="vinigithub" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  𝙶𝙸𝚃𝙷𝚄𝙱
+    <img align="center" alt="vinifigma" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />  𝙵𝙸𝙶𝙼𝙰
+    <img align="center" alt="vinitrello" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" />  𝚃𝚁𝙴𝙻𝙻𝙾
+    <img align="center" alt="vinicanva" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />  𝙲𝙰𝙽𝚅𝙰
+</div>
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vini-cods&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Snake animation](https://github.com/Vini-cods/Vini-cods/blob/output/github-contribution-grid-snake.svg)
