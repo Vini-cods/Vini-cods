@@ -2,22 +2,22 @@
 
 ###
 
-    💭 I'm 17 years old and I'm currently studying Software Development at SENAI.
-    Technology and programming have always caught my attention, and now I'm focused
-    on becoming a Software Engineer while exploring the latest trends in the world of technology.
+💭 I'm 17 years old and I'm currently studying Software Development at SENAI.
+Technology and programming have always caught my attention, and now I'm focused
+on becoming a Software Engineer while exploring the latest trends in the world of technology.
 
 
-    💻 Systems Development Student at SENAI
+💻 Systems Development Student at SENAI
 
-    🎯 Aspiring Software Engineer
+🎯 Aspiring Software Engineer
 
-    📚 Learning and improving JavaScript, Node.js, Python and more!
+📚 Learning and improving JavaScript, Mysql, PHP, Python and React!
 
-    🚀 Exploring technologies, UX/UI Design, and innovative solutions
+🚀 Exploring technologies, UX/UI Design, and innovative solutions
 
-    🗃️ Team player, problem solver, and always eager to learn
+🗃️ Team player, problem solver, and always eager to learn
 
-    🎶 Music and gaming enthusiast, always seeking inspiration through creativity
+🎶 Music and gaming enthusiast, always seeking inspiration through creativity
 
 ##
 
