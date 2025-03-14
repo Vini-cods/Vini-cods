@@ -63,3 +63,5 @@ on becoming a Software Engineer while exploring the latest trends in the world o
 ##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vini-cods&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
