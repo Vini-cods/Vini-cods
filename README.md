@@ -34,17 +34,18 @@ on becoming a Software Engineer while exploring the latest trends in the world o
     <img align="center" alt="vinijs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃
     <img align="center" alt="viniphp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 𝙿𝙷𝙿
     <img align="center" alt="vinisql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 𝙼𝚈𝚂𝚀𝙻
-    <img align="center" alt="vininode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 𝙽𝙾𝙳𝙴.𝙹𝚂       
+    <img align="center" alt="vininode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 𝙽𝙾𝙳𝙴.𝙹𝚂
+    <img align="center" alt="vinipy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 𝙿𝚈𝚃𝙷𝙾𝙽
 </div>
 
 ### I am currently studying
 
 <div style="display: inline_block"><br/>      
-    <img align="center" alt="vinipy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 𝙿𝚈𝚃𝙷𝙾𝙽
     <img align="center" alt="vinijs" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃
     <img align="center" alt="viniphp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 𝙿𝙷𝙿
     <img align="center" alt="vinisql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 𝙼𝚈𝚂𝚀𝙻
     <img align="center" alt="vinireact" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 𝚁𝙴𝙰𝙲𝚃       
+    <img align="center" alt="vininode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 𝙽𝙾𝙳𝙴.𝙹𝚂
 </div>
 
 ### Platforms I use
