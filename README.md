@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Vinícius Santos Briches!
+## 👋🏻 Hey there! I'm Vinícius Santos Briches!
 
 ###
 
@@ -28,38 +28,26 @@ on becoming a Software Engineer while exploring the latest trends in the world o
 
 ### My knowledge
 
-<div style="display: inline_block"><br/>      
-    <img align="center" alt="vinihtml" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 𝙷𝚃𝙼𝙻
-    <img align="center" alt="vinicss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 𝙲𝚂𝚂
-    <img align="center" alt="vinijs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃
-    <img align="center" alt="viniphp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 𝙿𝙷𝙿
-    <img align="center" alt="vinisql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 𝙼𝚈𝚂𝚀𝙻
-    <img align="center" alt="vininode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 𝙽𝙾𝙳𝙴.𝙹𝚂
-    <img align="center" alt="vinipy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 𝙿𝚈𝚃𝙷𝙾𝙽
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,python" /><br>
 </div>
 
 ### I am currently studying
 
-<div style="display: inline_block"><br/>      
-    <img align="center" alt="vinijs" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃
-    <img align="center" alt="viniphp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 𝙿𝙷𝙿
-    <img align="center" alt="vinisql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 𝙼𝚈𝚂𝚀𝙻
-    <img align="center" alt="vinireact" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 𝚁𝙴𝙰𝙲𝚃       
-    <img align="center" alt="vininode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 𝙽𝙾𝙳𝙴.𝙹𝚂
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mysql,php" /><br>
 </div>
+
 
 ### Platforms I use
 
-<div style="display: inline_block"><br/>      
-    <img align="center" alt="vinivscode" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />  𝚅𝚂𝙲𝙾𝙳𝙴
-    <img align="center" alt="vinireplit" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />  𝚁𝙴𝙿𝙻𝙸𝚃
-    <img align="center" alt="vinipycharm" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />  𝙿𝚈𝙲𝙷𝙰𝚁𝙼
-    <img align="center" alt="viniandroids" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />  𝙰𝙽𝙳𝚁𝙾𝙸𝙳 𝚂𝚃𝚄𝙳𝙸𝙾
-    <img align="center" alt="vinigithub" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  𝙶𝙸𝚃𝙷𝚄𝙱
-    <img align="center" alt="vinifigma" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />  𝙵𝙸𝙶𝙼𝙰
-    <img align="center" alt="vinitrello" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" />  𝚃𝚁𝙴𝙻𝙻𝙾
-    <img align="center" alt="vinicanva" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />  𝙲𝙰𝙽𝚅𝙰
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,replit,androidstudio,github,git,discord,notion,figma,bootstrap" /><br>
 </div>
+
 
 ##
 
