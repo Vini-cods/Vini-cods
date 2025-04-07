@@ -25,23 +25,25 @@ on becoming a Software Engineer while exploring the latest trends in the world o
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&theme=tokyonight)
 
 ##
+<h3 align="center">📚 My knowledge </h3>
 
-### My knowledge
-
-
+<br/>
+ 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,python" /><br>
 </div>
 
-### I am currently studying
+<h3 align="center">📖 I am currently studying </h3>
 
+<br/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mysql,php" /><br>
 </div>
 
+<h3 align="center">🗂️ Platforms I use </h3>
 
-### Platforms I use
+<br/>
 
 
 <div align="center">
