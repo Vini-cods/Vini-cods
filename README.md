@@ -1,4 +1,12 @@
-## 👋🏻 Hey there! I'm Vinícius Santos Briches!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Vinícius+Santos+Briches.;Backend,+frontend,+and+everything+in+between+🧩&font=JetBrains+Mono&duration=4000&pause=1000&color=7aa2f7&center=true&width=900&height=100" alt="Typing Header" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4c653b1-26ec-48fa-b3b2-ab30b5e73964" alt="bongo_blob" width="60" height="60" />
+</p>
+
+##
 
 ###
 
