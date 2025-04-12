@@ -19,12 +19,6 @@ on becoming a Software Engineer while exploring the latest trends in the world o
 
 🎯 Aspiring Software Engineer
 
-📚 Learning and improving JavaScript, Mysql, PHP and React!
-
-🚀 Exploring technologies, UX/UI Design, and innovative solutions
-
-🗃️ Team player, problem solver, and always eager to learn
-
 🎶 Music and gaming enthusiast, always seeking inspiration through creativity
 
 ##
