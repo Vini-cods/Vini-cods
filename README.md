@@ -38,7 +38,7 @@ on becoming a Software Engineer while exploring the latest trends in the world o
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mysql,php" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mysql,php,typescript" /><br>
 </div>
 
 <h3 align="center">🗂️ Platforms I use </h3>
