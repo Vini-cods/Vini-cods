@@ -47,7 +47,7 @@ on becoming a Software Engineer while exploring the latest trends in the world o
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,replit,androidstudio,github,git,discord,notion,figma,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,replit,androidstudio,github,git,figma" /><br>
 </div>
 
 
