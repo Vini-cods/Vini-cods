@@ -57,6 +57,6 @@ on becoming a Software Engineer while exploring the latest trends in the world o
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vini-cods&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vini-cods&theme=high-contrast&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/snake.svg" alt="Snake animation" />
