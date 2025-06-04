@@ -68,7 +68,7 @@ I'm a 17-year-old developer currently pursuing Software Development at **SENAI**
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea,figma,replit" />
 
 ### **Currently Learning**
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mysql,php,typescript,java" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mysql,php" />
 
 </div>
 
