@@ -1,62 +1,135 @@
+<div align="center">
+
+# Vinícius Santos Briches
+
+</div>
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Vinícius+Santos+Briches.;Backend,+frontend,+and+everything+in+between+🧩&font=JetBrains+Mono&duration=4000&pause=1000&color=7aa2f7&center=true&width=900&height=100" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%7C+Student+%7C+Tech+Enthusiast;Building+digital+solutions+with+passion+%F0%9F%9A%80;Always+learning,+always+growing+%F0%9F%8C%B1&font=JetBrains+Mono&duration=4000&pause=1000&color=7aa2f7&center=true&width=900&height=100" alt="Typing Header" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a4c653b1-26ec-48fa-b3b2-ab30b5e73964" alt="bongo_blob" width="60" height="60" />
+  <img src="https://github.com/user-attachments/assets/a4c653b1-26ec-48fa-b3b2-ab30b5e73964" alt="Developer Avatar" width="80" height="80" />
 </p>
 
----
-
-💭 I'm 17 years old and I'm currently studying Software Development at SENAI.
-Technology and programming have always caught my attention, and now I'm focused
-on becoming a Software Engineer while exploring the latest trends in the world of technology.
-
-
-💻 Systems Development Student at SENAI
-
-🎯 Aspiring Software Engineer
-
-🎶 Music and gaming enthusiast, always seeking inspiration through creativity
-
----
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vini-cods&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" alt="Vinícius Briches github stats" /> 
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-
----
-<h3 align="center">📚 My knowledge </h3>
-
-<br/>
- 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,python" /><br>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/Vini-cods?style=social)](https://github.com/Vini-cods)
+  [![GitHub stars](https://img.shields.io/github/stars/Vini-cods?style=social)](https://github.com/Vini-cods)
+  [![Profile views](https://komarev.com/ghpvc/?username=Vini-cods&color=blueviolet&style=flat)](https://github.com/Vini-cods)
+  
 </div>
 
-<h3 align="center">📖 I am currently studying </h3>
+---
 
-<br/>
+## About Me
+
+> **Software Development Student** | **React Enthusiast** | **Future Computer Scientist**
+
+I'm a 17-year-old developer currently pursuing Software Development at **SENAI**, with a passion for building interactive web experiences and a strong focus on pursuing **Computer Science**. My journey in technology is fueled by curiosity, creativity, and the drive to transform ideas into digital reality.
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mysql,php,typescript,java" /><br>
+  
+| 🎓 **Academic Journey** | 💻 **Current Focus** | 🎯 **Future Goals** |
+|:---:|:---:|:---:|
+| Software Development @ SENAI | React Development | Computer Science Degree |
+| Learning algorithms & data structures | Frontend specialization | Research & Innovation |
+
 </div>
 
-<h3 align="center">🗂️ Platforms I use </h3>
-
-<br/>
-
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,replit,androidstudio,github,git,figma" /><br>
-</div>
-
+- 🌟 **Passionate About**: Creating seamless user experiences with React
+- 🎮 **Creative Fuel**: Gaming communities and music production inspire my code
+- 🌎 **Based in**: Suzano, SP - Brazil's tech valley
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vini-cods&theme=high-contrast&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## My GitHub Analytics
 
-<img src="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vini-cods&show_icons=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vini-cods&theme=dark&hide_border=true&background=0d1117&stroke=7aa2f7&ring=00bfbf&fire=00bfbf&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+</div>
+
+---
+
+## 💻 Technical Skills
+
+<div align="center">
+
+### **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,php,react,nodejs" />
+
+### **Databases & Tools**
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea,figma,replit" />
+
+### **Currently Learning**
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mysql,php,typescript,java" />
+
+</div>
+
+---
+
+## What I'm Building & Learning
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🔥 **Currently Building**
+🚀 **Interactive React Applications**  
+⚡ **Dynamic user interfaces with modern hooks**  
+🎨 **Responsive designs that adapt to any device**  
+🔧 **Reusable component libraries**  
+
+</td>
+<td align="center" width="50%">
+
+### 📚 **Deep Diving Into**
+⚛️ **Advanced React Patterns** (Context, Hooks, Suspense)  
+🌐 **Frontend State Management** (Redux, Zustand)  
+📱 **Mobile-First Development**  
+🎭 **Animation Libraries** (Framer Motion, React Spring)  
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🤝 **Open for Collaboration**
+**React Projects** • **Open Source Contributions** • **Frontend Challenges** • **Code Reviews**
+
+### 💭 **Let's Talk About**
+**React Best Practices** • **JavaScript ES6+** • **Web Performance** • **UI/UX Implementation**
+
+</div>
+
+<div align="center">
+  
+  *"My best React components are born when Alternative indie beats meet creative flow"* 🎵
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vini-cods&theme=tokyo-night&hide_border=true&title_color=7aa2f7&area=true&area_color=00bfbf&bg_color=0d1117&line=7aa2f7&point=00bfbf" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/snake.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
+  
+  **Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.** 🚀
+  
+  *"The best way to predict the future is to create it."*
+  
+</div>
