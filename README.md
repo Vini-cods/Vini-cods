@@ -51,6 +51,9 @@ I'm a 17-year-old developer currently pursuing Software Development at **SENAI**
 [![Projeto Augebit App](https://github-readme-stats.vercel.app/api/pin/?username=Vini-cods&repo=projeto-augebit-app&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Vini-cods/projeto-augebit-app)
 [![YouTube Vimeo API](https://github-readme-stats.vercel.app/api/pin/?username=Vini-cods&repo=YouTube-Vimeo-API&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Vini-cods/YouTube-Vimeo-API)
 
+</div>
+
+
 <div align="center">
 
 *🔍 Explore more projects in my repositories below!*
