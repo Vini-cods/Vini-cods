@@ -44,6 +44,24 @@ I'm a 17-year-old developer currently pursuing Software Development at **SENAI**
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Projeto Augebit App](https://github-readme-stats.vercel.app/api/pin/?username=Vini-cods&repo=projeto-augebit-app&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Vini-cods/projeto-augebit-app)
+[![YouTube Vimeo API](https://github-readme-stats.vercel.app/api/pin/?username=Vini-cods&repo=YouTube-Vimeo-API&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Vini-cods/YouTube-Vimeo-API)
+
+</div>
+
+<div align="center">
+
+*🔍 Explore more projects in my repositories below!*
+
+</div>
+
+---
+
+
 ## My GitHub Analytics
 
 <div align="center">
@@ -62,13 +80,13 @@ I'm a 17-year-old developer currently pursuing Software Development at **SENAI**
 <div align="center">
 
 ### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,php,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,react,nodejs" />
 
 ### **Databases & Tools**
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea,figma,replit" />
 
 ### **Currently Learning**
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mysql,php" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mysql,php,java" />
 
 </div>
 
@@ -124,12 +142,4 @@ I'm a 17-year-old developer currently pursuing Software Development at **SENAI**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/snake.svg" alt="Snake Animation" />
-</div>
-
-<div align="center">
-  
-  **Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.** 🚀
-  
-  *"The best way to predict the future is to create it."*
-  
 </div>
