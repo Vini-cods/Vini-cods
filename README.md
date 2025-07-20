@@ -93,48 +93,6 @@ I'm a 17-year-old developer currently pursuing Software Development at **SENAI**
 
 ---
 
-## What I'm Building & Learning
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🔥 **Currently Building**
-🚀 **Interactive React Applications**  
-⚡ **Dynamic user interfaces with modern hooks**  
-🎨 **Responsive designs that adapt to any device**  
-🔧 **Reusable component libraries**  
-
-</td>
-<td align="center" width="50%">
-
-### 📚 **Deep Diving Into**
-⚛️ **Advanced React Patterns** (Context, Hooks, Suspense)  
-🌐 **Frontend State Management** (Redux, Zustand)  
-📱 **Mobile-First Development**  
-🎭 **Animation Libraries** (Framer Motion, React Spring)  
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🤝 **Open for Collaboration**
-**React Projects** • **Open Source Contributions** • **Frontend Challenges** • **Code Reviews**
-
-### 💭 **Let's Talk About**
-**React Best Practices** • **JavaScript ES6+** • **Web Performance** • **UI/UX Implementation**
-
-</div>
-
-<div align="center">
-  
-  *"My best React components are born when Alternative indie beats meet creative flow"* 🎵
-</div>
-
----
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vini-cods&theme=tokyo-night&hide_border=true&title_color=7aa2f7&area=true&area_color=00bfbf&bg_color=0d1117&line=7aa2f7&point=00bfbf" alt="Contribution Graph" />
 </div>
