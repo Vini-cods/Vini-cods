@@ -53,12 +53,7 @@ I'm a 17-year-old developer currently pursuing Software Development at **SENAI**
 
 </div>
 
-
-<div align="center">
-
-*🔍 Explore more projects in my repositories below!*
-
-</div>
+>*🔍 Explore more projects in my repositories below!*
 
 ---
 
