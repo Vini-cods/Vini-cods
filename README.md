@@ -27,7 +27,7 @@
 
 > **Software Development Student** | **React Enthusiast** | **Future Computer Scientist**
 
-I'm a 17-year-old developer currently pursuing Software Development at **SENAI**, with a passion for building interactive web experiences and a strong focus on pursuing **Computer Science**. My journey in technology is fueled by curiosity, creativity, and the drive to transform ideas into digital reality.
+I'm a 18-year-old developer currently pursuing Software Development at **SENAI**, with a passion for building interactive web experiences and a strong focus on pursuing **Computer Science**. My journey in technology is fueled by curiosity, creativity, and the drive to transform ideas into digital reality.
 
 <div align="center">
   
