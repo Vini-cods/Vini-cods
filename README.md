@@ -76,13 +76,13 @@ I'm a 18-year-old developer currently pursuing Software Development at **SENAI**
 <div align="center">
 
 ### **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python,php,react,nodejs" />
 
 ### **Databases & Tools**
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea,figma,replit" />
 
 ### **Currently Learning**
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mysql,php,java" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mysql,php" />
 
 </div>
 
