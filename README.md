@@ -48,7 +48,7 @@ I'm a 18-year-old developer currently pursuing Software Development at **SENAI**
 
 <div align="center">
 
-[![Projeto Augebit App](https://github-readme-stats.vercel.app/api/pin/?username=Vini-cods&repo=projeto-augebit-app&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Vini-cods/projeto-augebit-app)
+[![Projeto ArtFlow TCC]([https://github-readme-stats.vercel.app/api/pin/?username=Vini-cods&repo=projeto-augebit-app&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117](https://github.com/Vini-cods/ArtFlow.git))](https://github.com/Vini-cods/ArtFlow)
 [![YouTube Vimeo API](https://github-readme-stats.vercel.app/api/pin/?username=Vini-cods&repo=YouTube-Vimeo-API&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Vini-cods/YouTube-Vimeo-API)
 
 </div>
@@ -82,7 +82,7 @@ I'm a 18-year-old developer currently pursuing Software Development at **SENAI**
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea,figma,replit" />
 
 ### **Currently Learning**
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mysql,php" />
+<img src="https://skillicons.dev/icons?i=javascript,php,java" />
 
 </div>
 
