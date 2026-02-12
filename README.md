@@ -4,7 +4,6 @@
 
 </div>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%7C+Student+%7C+Tech+Enthusiast;Building+digital+solutions+with+passion+%F0%9F%9A%80;Always+learning,+always+growing+%F0%9F%8C%B1&font=JetBrains+Mono&duration=4000&pause=1000&color=7aa2f7&center=true&width=900&height=100" alt="Typing Header" />
 </p>
@@ -25,44 +24,23 @@
 
 ## About Me
 
-> **Software Development Student** | **React Enthusiast** | **Future Computer Scientist**
+> **Computer Science Student** | **React Enthusiast** | **Software Developer**
 
-I'm a 18-year-old developer currently pursuing Software Development at **SENAI**, with a passion for building interactive web experiences and a strong focus on pursuing **Computer Science**. My journey in technology is fueled by curiosity, creativity, and the drive to transform ideas into digital reality.
+I'm an 18-year-old developer with a background in **Software Development (SENAI)** and currently pursuing **Computer Science**. My journey in technology is fueled by curiosity, creativity, and the drive to transform ideas into digital reality.
 
-<div align="center">
-  
-| 🎓 **Academic Journey** | 💻 **Current Focus** | 🎯 **Future Goals** |
-|:---:|:---:|:---:|
-| Software Development @ SENAI | React Development | Computer Science Degree |
-| Learning algorithms & data structures | Frontend specialization | Research & Innovation |
-
-</div>
-
+- 🎓 **Academic Background**: Software Development @ SENAI
+- 📚 **Currently Studying**: Computer Science
 - 🌟 **Passionate About**: Creating seamless user experiences with React
 - 🎮 **Creative Fuel**: Gaming communities and music production inspire my code
-- 🌎 **Based in**: Suzano, SP - Brazil's tech valley
+- 🌎 **Based in**: SP - Brazil's tech valley
 
 ---
 
- ### 🚀 Featured Projects
+## 📊 My GitHub Analytics
 
 <div align="center">
-
-[![Projeto ArtFlow TCC]([https://github-readme-stats.vercel.app/api/pin/?username=Vini-cods&repo=projeto-augebit-app&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117](https://github.com/Vini-cods/ArtFlow.git))](https://github.com/Vini-cods/ArtFlow)
-[![YouTube Vimeo API](https://github-readme-stats.vercel.app/api/pin/?username=Vini-cods&repo=YouTube-Vimeo-API&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Vini-cods/YouTube-Vimeo-API)
-
-</div>
-
->*🔍 Explore more projects in my repositories below!*
-
----
-
-
-## My GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vini-cods&show_icons=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.anuraghazra.vercel.app/api?username=Vini-cods&show_icons=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -82,22 +60,20 @@ I'm a 18-year-old developer currently pursuing Software Development at **SENAI**
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea,figma,replit" />
 
 ### **Currently Learning**
-<img src="https://skillicons.dev/icons?i=javascript,php,java" />
+<img src="https://skillicons.dev/icons?i=javascript,python,php,java" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vini-cods&theme=tokyo-night&hide_border=true&title_color=7aa2f7&area=true&area_color=00bfbf&bg_color=0d1117&line=7aa2f7&point=00bfbf" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vini-cods&theme=react&hide_border=true&title_color=7aa2f7&area=true&area_color=00bfbf&bg_color=0d1117&line=7aa2f7&point=00bfbf" alt="Contribution Graph" />
 </div>
 
 ---
 
-
-
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vini-cods/Vini-cods/output/pacman-contribution-graph.svg">
 </picture>
