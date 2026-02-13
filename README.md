@@ -39,8 +39,8 @@ I'm an 18-year-old developer with a background in **Software Development (SENAI)
 ## 📊 My GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.anuraghazra.vercel.app/api?username=Vini-cods&show_icons=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vini-cods&show_icons=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
