@@ -60,7 +60,7 @@ I'm an 18-year-old developer with a background in **Software Development (SENAI)
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea,figma,replit" />
 
 ### **Currently Learning**
-<img src="https://skillicons.dev/icons?i=javascript,python,php,java" />
+<img src="https://skillicons.dev/icons?i=dart" />
 
 </div>
 
