@@ -5,20 +5,12 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%7C+Student+%7C+Tech+Enthusiast;Building+digital+solutions+with+passion+%F0%9F%9A%80;Always+learning,+always+growing+%F0%9F%8C%B1&font=JetBrains+Mono&duration=4000&pause=1000&color=7aa2f7&center=true&width=900&height=100" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%7C+Student+%7C+Tech+Enthusiast;Building+digital+solutions+with+passion;Always+learning,+always+growing&font=JetBrains+Mono&duration=4000&pause=1000&color=7aa2f7&center=true&width=900&height=100" alt="Typing Header" />
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a4c653b1-26ec-48fa-b3b2-ab30b5e73964" alt="Developer Avatar" width="80" height="80" />
 </p>
-
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Vini-cods?style=social)](https://github.com/Vini-cods)
-  [![GitHub stars](https://img.shields.io/github/stars/Vini-cods?style=social)](https://github.com/Vini-cods)
-  [![Profile views](https://komarev.com/ghpvc/?username=Vini-cods&color=blueviolet&style=flat)](https://github.com/Vini-cods)
-  
-</div>
 
 ---
 
