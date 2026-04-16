@@ -59,6 +59,9 @@ I'm an 18-year-old developer with a background in **Software Development (SENAI)
 ### **Databases & Tools**
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea,figma,replit" />
 
+### **DevOps & Cloud**
+<img src="https://skillicons.dev/icons?i=docker,aws,postman,firebase" />
+
 ### **Currently Learning**
 <img src="https://skillicons.dev/icons?i=dart,php,python,nodejs" />
 
