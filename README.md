@@ -16,19 +16,22 @@
 
 ## About Me
 
-> **Computer Science Student** | **React Enthusiast** | **Software Developer**
+> **Computer Science Student** | **Backend Developer** | **Software Developer**
 
-I'm an 18-year-old developer with a background in **Software Development (SENAI)** and currently pursuing **Computer Science**. My journey in technology is fueled by curiosity, creativity, and the drive to transform ideas into digital reality.
+Computer Science student at **Impacta**, with a technical background in Software Development from **SENAI**.
+I focus on building web applications and APIs, with an emphasis on backend development, system integrations, and real-world solutions.
 
-- 🎓 **Academic Background**: Software Development @ SENAI
-- 📚 **Currently Studying**: Computer Science
-- 🌟 **Passionate About**: Creating seamless user experiences with React
-- 🎮 **Creative Fuel**: Gaming communities and music production inspire my code
-- 🌎 **Based in**: SP - Brazil's tech valley
+I have hands-on experience working with REST APIs, managing data flow between services, and improving existing systems to make them more reliable and scalable.
+
+- **Background:** Software Development — SENAI
+- **Degree:** Computer Science — Impacta *(in progress)*
+- **Stack:** JavaScript, TypeScript, Node.js, PHP, MySQL
+- **Focus:** Backend development, APIs & system integrations
+- **Location:** São Paulo, Brazil
 
 ---
 
-## 📊 My GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img 
@@ -49,21 +52,25 @@ I'm an 18-year-old developer with a background in **Software Development (SENAI)
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 <div align="center">
 
-### **Languages & Frameworks**
+### Languages & Frameworks
+
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python,php,react,nodejs" />
 
-### **Databases & Tools**
+### Databases & Tools
+
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea,figma,replit" />
 
-### **DevOps & Cloud**
+### DevOps & Cloud
+
 <img src="https://skillicons.dev/icons?i=docker,aws,postman,firebase" />
 
-### **Currently Learning**
-<img src="https://skillicons.dev/icons?i=dart,php,python,nodejs" />
+### Currently Learning
+
+<img src="https://skillicons.dev/icons?i=dart,aws,docker" />
 
 </div>
 
