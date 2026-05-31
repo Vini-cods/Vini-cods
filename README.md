@@ -70,7 +70,7 @@ I have hands-on experience working with REST APIs, managing data flow between se
 
 ### Currently Learning
 
-<img src="https://skillicons.dev/icons?i=dart,aws,docker" />
+<img src="https://skillicons.dev/icons?i=java,python,aws,docker" />
 
 </div>
 
