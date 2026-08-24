@@ -36,12 +36,12 @@ I have hands-on experience working with REST APIs, managing data flow between se
 <p align="center">
   <img 
     width="49%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vini-cods&show_icons=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" 
+    src="https://github-readme-stats.vercel.app/api?username=Vini-cods&show_icons=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117" 
     alt="Vinícius Briches github stats" 
   />
   <img 
     width="41%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini-cods&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" 
     alt="Vinícius Briches top languages"
   />
 </p>
@@ -50,7 +50,6 @@ I have hands-on experience working with REST APIs, managing data flow between se
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vini-cods&theme=dark&hide_border=true&background=0d1117&stroke=7aa2f7&ring=00bfbf&fire=00bfbf&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </div>
 
----
 
 ## Technical Skills
 
