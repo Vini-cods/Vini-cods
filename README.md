@@ -56,24 +56,25 @@ I have hands-on experience working with REST APIs, managing data flow between se
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vini-cods&theme=tokyo" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vini-cods&theme=github_dark" />
     </td> 
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vini-cods&theme=tokyo" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vini-cods&theme=github_dark" />
     </td>
   </tr>
 
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vini-cods&theme=tokyo" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vini-cods&theme=github_dark" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Vini-cods&theme=tokyo&hide_border=false" />
+      <img src="https://streak-stats.demolab.com?user=Vini-cods&theme=github-dark-blue&hide_border=false" />
     </td>
   </tr>
 </table>
 
 </div>
+
 ---
 
 <picture>
