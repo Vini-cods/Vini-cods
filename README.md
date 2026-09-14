@@ -33,7 +33,7 @@ I have hands-on experience working with REST APIs, managing data flow between se
 
 ### Languages & Backend
 
-<img src="https://skillicons.dev/icons?i=java,python,php,javascript,typescript,c,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,typescript,nodejs,express,spring" />
 
 ### Frontend
 
@@ -41,7 +41,7 @@ I have hands-on experience working with REST APIs, managing data flow between se
 
 ### Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,gitlab,vscode,idea,pycharm,postman,npm,pnpm" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,gitlab,vscode,idea,eclipse,pycharm,postman,npm,pnpm" />
 
 ### DevOps & Cloud
 
