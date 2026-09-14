@@ -33,7 +33,7 @@ I have hands-on experience working with REST APIs, managing data flow between se
 
 ### Languages & Backend
 
-<img src="https://skillicons.dev/icons?i=java,python,php,javascript,typescript,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=java,python,php,javascript,typescript,c,nodejs,express" />
 
 ### Frontend
 
