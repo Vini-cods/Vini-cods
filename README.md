@@ -31,17 +31,25 @@ I have hands-on experience working with REST APIs, managing data flow between se
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages & Backend
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python,php,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=java,python,php,javascript,typescript,nodejs,express" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite" />
 
 ### Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,idea,figma,replit" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,gitlab,vscode,idea,pycharm,postman,npm,pnpm" />
 
 ### DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,aws,postman,firebase" />
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,firebase,vercel" />
+
+### Design & Productivity
+
+<img src="https://skillicons.dev/icons?i=figma,notion,obsidian" />
 
 ### Currently Learning
 
