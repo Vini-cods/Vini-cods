@@ -1,13 +1,19 @@
-<div align="center">
-
-# Vinícius Santos Briches
-
-</div>
-
+<!-- Animated header SVGs adapted from https://github.com/poormikey80-create/poormikey80-create -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%7C+Student+%7C+Tech+Enthusiast;Building+digital+solutions+with+passion;Always+learning,+always+growing&font=JetBrains+Mono&duration=4000&pause=1000&color=7aa2f7&center=true&width=900&height=100" alt="Typing Header" />
+  <img src="https://raw.githubusercontent.com/Vini-cods/Vini-cods/main/assets/header.svg" alt="Vinícius Briches — Backend Developer" width="880" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vini-cods/Vini-cods/main/assets/now.svg" alt="Building APIs and integrations, studying Computer Science at Impacta, and always learning" width="720" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" height="22" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="22" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="22" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP" height="22" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="22" />
 </p>
 
+---
 
 ## About Me
 
