@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" height="22" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="22" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="22" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP" height="22" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python" height="22" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="22" />
 </p>
 
@@ -26,7 +26,7 @@ I have hands-on experience working with REST APIs, managing data flow between se
 
 - **Background:** Software Development — SENAI
 - **Degree:** Computer Science — Impacta *(in progress)*
-- **Stack:** JavaScript, TypeScript, Node.js, PHP, MySQL
+- **Stack:** JavaScript, TypeScript, Node.js, Python, MySQL
 - **Focus:** Backend development, APIs & system integrations
 - **Location:** São Paulo, Brazil
 
@@ -39,7 +39,7 @@ I have hands-on experience working with REST APIs, managing data flow between se
 
 ### Languages & Backend
 
-<img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,typescript,nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,nodejs,express,spring" />
 
 ### Frontend
 
