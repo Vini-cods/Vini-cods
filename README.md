@@ -5,13 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vini-cods/Vini-cods/main/assets/now.svg" alt="Building APIs and integrations, studying Computer Science at Impacta, and always learning" width="720" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" height="22" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="22" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="22" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python" height="22" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="22" />
-</p>
+
 
 ---
 
